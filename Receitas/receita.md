@@ -12,4 +12,6 @@
  - Champgnon
  - Batata palha e arroz branco para acompanhar
 
+##Modo de preparo
+
 
